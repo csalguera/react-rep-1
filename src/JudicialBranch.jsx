@@ -1,8 +1,13 @@
 const JudicialBranch = (props) => {
   return (
     <>
-      <h1>Supreme Court</h1>
-      <h1>Federal Courts</h1>
+      <h1>JudicialBranch</h1>
+      <div>
+        <h1>Supreme Court</h1>
+      </div>
+      <div>
+        <h1>Federal Courts</h1>
+      </div>
     </>
   )
 }

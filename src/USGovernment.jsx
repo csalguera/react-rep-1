@@ -5,6 +5,7 @@ import LegislativeBranch from "./LegislativeBranch"
 const USGovernment = (props) => {
   return (
     <>
+      <h1>US Government</h1>
       <div>
         <ExecutiveBranch />
       </div>

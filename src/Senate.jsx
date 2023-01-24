@@ -1,6 +1,6 @@
 const Senate = (props) => {
   return (
-    <h1>Senate</h1>
+    <h1>Senate has {props.members} members</h1>
   )
 }
 
