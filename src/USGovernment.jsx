@@ -1,3 +1,7 @@
+import ExecutiveBranch from "./ExecutiveBranch"
+import JudicialBranch from "./JudicialBranch"
+import LegislativeBranch from "./LegislativeBranch"
+
 const USGovernment = (props) => {
   return (
     <>
